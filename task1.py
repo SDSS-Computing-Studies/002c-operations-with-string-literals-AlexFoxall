@@ -2,6 +2,6 @@
 
 noun = "dog"
 verb = "barked"
-result  = noun+"  "+verb
+result  = noun+" "+verb
 
-print(result)
+print(A+" "+result)
