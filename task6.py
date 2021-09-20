@@ -7,4 +7,4 @@ John earns $6 per hour
 """
 wage = 6
 str(wage)
-print(F"John earns ${wage} dollars per hour")
+print(F"John earns ${wage} per hour")
