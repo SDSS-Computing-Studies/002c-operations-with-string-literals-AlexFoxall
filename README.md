@@ -64,7 +64,6 @@ Option 3:
 Use formatted strings using the f-string
 x = 6
 print(f"The number is {x}")
-
 Option 4:
 Use the "end" option to not put a line break after a print statement. This is excellent if you are not sure how many things you need to add, but you want them all to be on the same line.
 x = 6
